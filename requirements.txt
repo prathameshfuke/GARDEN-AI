@@ -1,0 +1,15 @@
+###### OpenCV plus extra modules without GUI ######
+#
+opencv-contrib-python-headless
+#
+#
+###### Django ######
+#
+Django
+#
+#
+###### GPIO for Raspi ######
+#
+RPi.GPIO
+#
+#
